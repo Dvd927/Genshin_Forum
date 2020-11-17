@@ -1,2 +1,2 @@
-# Genshin_forum
-Genshin_forum
+# Genshin_Forum
+Genshin_Forum
